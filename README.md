@@ -4,15 +4,18 @@ The Music Player Project is a web-based application that provides users with a s
 Technologies Used:
 
 Front End:
+
 • HTML: Structure the web pages.
 • CSS: Style the application for a responsive and visually appealing interface.
 • JavaScript: Add interactivity and dynamic content.
 
 Back End:
+
 • Java Servlets: Handle server-side logic and API endpoints.
 • MySQL: Store user information, playlists, and favorite songs.
 
 Features:
+
 • User Authentication: Secure user registration and login functionality.
 • Music Library: User can listen Inbuild music library.
 • Playlists: Create, edit, and manage personal playlists.
