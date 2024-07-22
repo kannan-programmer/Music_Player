@@ -11,3 +11,10 @@ Front End:
 Back End:
 • Java Servlets: Handle server-side logic and API endpoints.
 • MySQL: Store user information, playlists, and favorite songs.
+
+Features:
+• User Authentication: Secure user registration and login functionality.
+• Music Library: User can listen Inbuild music library.
+• Playlists: Create, edit, and manage personal playlists.
+• Favorites: Mark and store favorite songs in MySQL to Add that song in future update.
+• Playback Controls: Standard controls including play, pause, skip, and volume adjust.
